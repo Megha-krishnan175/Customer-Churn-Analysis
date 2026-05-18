@@ -26,7 +26,7 @@ The dataset includes customer-related attributes such as:
   💵 Estimated Salary
   ❌ Exited (Churn Indicator)
 
-  🔄 Steps Followed
+  🔄 Steps Followed:
 1. 📥 Imported dataset using Pandas
 2. 🧹 Data cleaning:
     *Removed missing/duplicate values
@@ -38,7 +38,7 @@ The dataset includes customer-related attributes such as:
     *Heatmap
 5. 🧠 Interpreted results
 
-📈 Visualizations
+📈 Visualizations:
    📦 Balance Distribution (Boxplot)
       Shows variation and outliers in customer balance.
   🔗 Age vs Balance (Scatterplot)
@@ -46,29 +46,29 @@ The dataset includes customer-related attributes such as:
   🌡️ Correlation Heatmap
       Highlights relationships between numerical variables.
 
-🔑 Key Insights
+🔑 Key Insights:
   ⚠️ Churn is influenced by multiple factors, not a single variable
   📉 No strong correlation between individual variables and churn
   👴 Older customers show a slight tendency to churn more
   💰 Balance varies widely but does not independently impact churn
   🔄 Significant overlap between churned and retained customers
 
-💡 Business Recommendations
+💡 Business Recommendations:
    🤖 Use predictive models to identify at-risk customers
    🎯 Target older customers with retention strategies
    📢 Improve customer engagement & communication
   💎 Provide premium services for high-value customers
   🚨 Implement early churn detection systems
 
-▶️ How to Run
+▶️ How to Run:
    1.Open the notebook in Google Colab
    2.Run cells step-by-step
    3.Explore visualizations and insights
 
- 🏁 Conclusion
+ 🏁 Conclusion:
     *Customer churn is a complex, multi-factor problem.
     *No single variable strongly explains churn, making it essential to use data-driven and multi-dimensional strategies.
     *This project demonstrates how data analysis can help businesses reduce churn and improve customer retention.
 
- 👤 Author
+ 👤 Author:
      MEGHA K
