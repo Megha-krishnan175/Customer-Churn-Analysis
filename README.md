@@ -4,6 +4,12 @@ Customer Churn Analysis using Pandas, Matplotlib, and Seaborn
 📌 Project Overview
 This project focuses on analyzing customer churn data using Pandas for data analysis and Matplotlib & Seaborn for visualization. The goal is to identify patterns and factors influencing customer churn and support better business decision-making.
 
+📊 Project Highlights
+ - ✔ Performed Exploratory Data Analysis (EDA)
+ - ✔ Identified patterns in customer churn behavior
+ - ✔ Visualized relationships using multiple plots
+ - ✔ Derived actionable business insights
+
 🎯 Objectives
   * Explore customer data
   * Identify churn patterns
@@ -69,6 +75,7 @@ The dataset includes customer-related attributes such as:
     *Customer churn is a complex, multi-factor problem.
     *No single variable strongly explains churn, making it essential to use data-driven and multi-dimensional strategies.
     *This project demonstrates how data analysis can help businesses reduce churn and improve customer retention.
+    *This analysis helps organizations identify at-risk customers and take proactive measures to improve retention and reduce revenue loss.
 
  👤 Author:
      MEGHA K
